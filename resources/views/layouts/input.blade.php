@@ -1,0 +1,1 @@
+<input type="{{ $type ?? 'text' }}" name="{{ $field ?? ''}}" value="{{ $value ?? '' }}" style="width:400px">
